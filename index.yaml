@@ -3,7 +3,7 @@ entries:
   petclinic_chart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.65380365Z"
+    created: "2023-12-25T07:31:51.299130934Z"
     description: A Helm chart for Kubernetes
     digest: cfc12979c7a2986e1f4ef30268e13c322df158c167f92e720ae834c2e13cf632
     name: petclinic_chart
@@ -13,7 +13,7 @@ entries:
     version: "4"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.653475696Z"
+    created: "2023-12-25T07:31:51.298566345Z"
     description: A Helm chart for Kubernetes
     digest: 792d9b868a2013ffc73c59dae6710dce379406172a57ec37f096ed3620ca5960
     name: petclinic_chart
@@ -23,7 +23,7 @@ entries:
     version: "3"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.653145572Z"
+    created: "2023-12-25T07:31:51.297466709Z"
     description: A Helm chart for Kubernetes
     digest: 95a4959535aa1ef70be8da7f0a60100f8d0094f4dbdf7b8f7ab3523c9e347db0
     name: petclinic_chart
@@ -33,7 +33,7 @@ entries:
     version: "2"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.652821868Z"
+    created: "2023-12-25T07:31:51.297138274Z"
     description: A Helm chart for Kubernetes
     digest: 238bd0381c5f998497afa2bf3634da30d7af382cb4d26f40486377f87db8cb92
     name: petclinic_chart
@@ -44,7 +44,17 @@ entries:
   petclinic_chart_local:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.655264928Z"
+    created: "2023-12-25T07:31:51.299638891Z"
+    description: A Helm chart for Kubernetes
+    digest: a9de19f451b003d34b2610477877d79d0405090e92cfc43a9c57899f3f47f95e
+    name: petclinic_chart_local
+    type: application
+    urls:
+    - petclinic_chart_local-10.tgz
+    version: "10"
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-12-25T07:31:51.302108787Z"
     description: A Helm chart for Kubernetes
     digest: f615c2176e2b3e1c9a995831dfaa04480ea8d76eb69d1706853cbfc465592b14
     name: petclinic_chart_local
@@ -54,7 +64,7 @@ entries:
     version: "9"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.654987035Z"
+    created: "2023-12-25T07:31:51.301823893Z"
     description: A Helm chart for Kubernetes
     digest: f03fbbb8e9390a52ee32bf3e62a8ca60662838fb840d0c871663b7f342efc47f
     name: petclinic_chart_local
@@ -64,7 +74,7 @@ entries:
     version: "8"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.654694641Z"
+    created: "2023-12-25T07:31:51.301518289Z"
     description: A Helm chart for Kubernetes
     digest: 219a5c2b834e17982d6f72c4be4a011d88fab8586b41b18e71db85a7896ff0bb
     name: petclinic_chart_local
@@ -74,7 +84,7 @@ entries:
     version: "7"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.654401057Z"
+    created: "2023-12-25T07:31:51.301171643Z"
     description: A Helm chart for Kubernetes
     digest: 45639887cd84c2653da3bee28bd50d4bdfe2bf6824645019fc56e5df517b1b94
     name: petclinic_chart_local
@@ -84,7 +94,7 @@ entries:
     version: "6"
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-25T07:05:18.654113844Z"
+    created: "2023-12-25T07:31:51.300742277Z"
     description: A Helm chart for Kubernetes
     digest: ab6e15fcfe89f064d1a62199cd0e3b2864aa9a19059f191c2cee4c0d7b250346
     name: petclinic_chart_local
@@ -92,4 +102,4 @@ entries:
     urls:
     - petclinic_chart_local-2.tgz
     version: "2"
-generated: "2023-12-25T07:05:18.652323902Z"
+generated: "2023-12-25T07:31:51.296653757Z"
